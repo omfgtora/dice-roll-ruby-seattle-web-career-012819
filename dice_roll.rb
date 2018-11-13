@@ -4,5 +4,5 @@
 
 def roll
   x = (1..6)
-  return rand.x
+  return rand(x)
 end
